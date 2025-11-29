@@ -54,9 +54,18 @@ We developed several **Node.js automation scripts**, including:
 **Known Issue:**  
 The setPass scripts currently does **not** use the official DOMjudge API. I'll work on it.
 
+## Dictionary
+
+We used the following dictionary repository as part of the contest tooling and infrastructure:
+[githubRepo](git@github.com:mazaheriMahdi/dictionary.git)
+![dict](img/dict-demo.jpg)
+
 ## Special Thanks!
 
-- The **CharBug technical team** [Mahdi](https://github.com/mazaheriMahdi), [Danial](https://github.com/dkhorasanizadeh),[Mohammad](https://github.com/MohammadHDehghani) :tnx guys Guys :heart_on_fire: , I learned a lot from this event, and I will never forget it.
+- The **CharBug technical team** [Mahdi](https://github.com/mazaheriMahdi), [Danial](https://github.com/dkhorasanizadeh),[Arash](https://github.com/ArashZrg),[Mohammad](https://github.com/MohammadHDehghani) :tnx guys Guys :heart_on_fire: , I learned a lot from this event, and I will never forget it.
 - All **jury members** specially my dear friend [Mohammad Hossein](https://github.com/muhuchah) ,their effort in preparing high-quality contest problems.
 - All **staff** for their continuous assistance during the contest ,_At the end of the day, they carry everything!_
 
+## TODO
+- [] Update the setPass script and make it work with api 
+- [] Read and refactor the create theTeam 
