@@ -69,6 +69,10 @@ We used the following dictionary repository as part of the contest tooling and i
 - All **jury members** specially my dear friend [Mohammad Hossein](https://github.com/muhuchah) ,their effort in preparing high-quality contest problems.
 - All **staff** for their continuous assistance during the contest ,_At the end of the day, they carry everything!_
 
+## Other links
+[Other scripts](https://github.com/domjudge-tools/bash-scripts)
+[Domjudge automation](https://github.com/domjudge-tools/domjudge-automation)
+
 ## TODO
 - [ ] Update the setPass script and make it work with api 
 - [ ] Read and refactor the create theTeam 
