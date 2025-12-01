@@ -7,9 +7,14 @@ import * as cheerio from 'cheerio';
 // ─────────────────────────────────────────────
 // ✅ CONFIG
 // ─────────────────────────────────────────────
-const DOMJUDGE_BASE = "http://185.97.116.151:12345";
-const PHPSESSID = "kduckatjkcqasrilrphndr47v7";
+//const DOMJUDGE_BASE = "http://{ip}:12345";
+const DOMJUDGE_BASE = process.env.DOMJUDGE_API_BASE;
+const PHPSESSID = "phpSession"; // you can find it in the cockies 
+
 const INPUT_FILE = "./users_to_created.json";
+
+
+
 
 // Standard DOMjudge role mapping
 const ROLE_MAP = {

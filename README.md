@@ -31,6 +31,7 @@ We also applied the **official CharBug theme** to the DOMjudge interface.
 We used  **Docker Compose** to manage the containers.
 
 ![domjudge](img/domjudge.jpg)
+
 ![domjudge](img/domjudge-2.jpg)
 
 ---
@@ -41,6 +42,7 @@ A custom **CharBug theme** was also added to the resolver.
 You can find the resolver repository here:
 
 [Domjudge_resolver](https://github.com/domjudge-tools/resolver)
+
 ![resolver](img/resolver-demo.jpg)
 
 ---
@@ -57,7 +59,8 @@ The setPass scripts currently does **not** use the official DOMjudge API. I'll w
 ## Dictionary
 
 We used the following dictionary repository as part of the contest tooling and infrastructure:
-[githubRepo](git@github.com:mazaheriMahdi/dictionary.git)
+[githubRepo](https:://github.com/mazaheriMahdi/dictionary)
+
 ![dict](img/dict-demo.jpg)
 
 ## Special Thanks!
@@ -67,5 +70,7 @@ We used the following dictionary repository as part of the contest tooling and i
 - All **staff** for their continuous assistance during the contest ,_At the end of the day, they carry everything!_
 
 ## TODO
-- [] Update the setPass script and make it work with api 
-- [] Read and refactor the create theTeam 
+- [ ] Update the setPass script and make it work with api 
+- [ ] Read and refactor the create theTeam 
+- [ ] Add the link of domjudge-tools after update
+- [ ] Add the script for update the pic in domjudge
